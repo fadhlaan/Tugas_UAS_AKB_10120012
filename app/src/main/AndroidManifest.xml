@@ -16,6 +16,7 @@
         <activity android:name="com.fadhlan.uas_10120012.main.diary.NotesActivity" />
         <activity android:name="com.fadhlan.uas_10120012.main.diary.ListNoteActivity" />
         <activity android:name="com.fadhlan.uas_10120012.main.diary.SaveCategoryActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.main.diary.CategoriActivity" />
         <activity android:name="com.fadhlan.uas_10120012.auth.LoginActivity" />
         <activity android:name="com.fadhlan.uas_10120012.auth.RegisterActivity" />
         <activity

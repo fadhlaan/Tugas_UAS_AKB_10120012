@@ -15,7 +15,7 @@
         android:layout_marginEnd="5dp"
         android:layout_marginBottom="5dp"
         android:gravity="center"
-        android:text="Aplikasi ini dibuat oleh M Fadhlan Putra kelas IF1 dengan NIM 10120012. Untuk memenuhi salah satu tugas UTS AKB 2023"
+        android:text="Aplikasi ini dibuat oleh M Fadhlan Putra kelas IF1 dengan NIM 10120012. Untuk memenuhi salah satu tugas UAS AKB 2023"
         android:textSize="16sp" />
 
     <Button
