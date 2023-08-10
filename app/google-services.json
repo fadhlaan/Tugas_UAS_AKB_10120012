@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "133444685079",
+    "project_id": "uas-26f93",
+    "storage_bucket": "uas-26f93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133444685079:android:40ba4ea1b3f749ac9d7b52",
+        "android_client_info": {
+          "package_name": "com.fadhlan.uas_10120012"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133444685079-c2qv300lcnr8ccbv3st03ghls501havk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBQU5OIlzVTJcFO-JWSK4JWi3H68Sf8yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133444685079-c2qv300lcnr8ccbv3st03ghls501havk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

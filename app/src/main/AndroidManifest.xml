@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.fadhlan.uas_10120012">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_fadhlan"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_fadhlan_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UTS10120012DailyNotes">
+        <activity android:name="com.fadhlan.uas_10120012.main.profile.ProfileActivity"></activity>
+        <activity android:name="com.fadhlan.uas_10120012.main.diary.UpdateActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.main.diary.SaveActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.main.diary.NotesActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.main.diary.ListNoteActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.main.diary.SaveCategoryActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.auth.LoginActivity" />
+        <activity android:name="com.fadhlan.uas_10120012.auth.RegisterActivity" />
+        <activity
+            android:name="com.fadhlan.uas_10120012.main.viewpager.ViewPagerActivity"
+            android:theme="@style/SplashScreenStyle"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
